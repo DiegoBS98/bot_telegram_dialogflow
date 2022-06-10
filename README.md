@@ -1,7 +1,7 @@
 # Creando un bot en Telegram con conexión a Dialogflow.
 En este repositorio, se encuentran dos proyectos:
-  API : Proyecto en el que he desarrollado el api que conectara con nuestro Agente de Dialogflow y devolverá una respuesta al bot de telegram
-  BOT: Proyecto en el que se encuentra el código del bot de telegram.
+  1. **API** : Proyecto en el que he desarrollado el api que conectara con nuestro Agente de Dialogflow y devolverá una respuesta al bot de telegram
+  2. **BOT** : Proyecto en el que se encuentra el código del bot de telegram.
 
 ### Pre-Requisitos
   1. Descargar los proyectos y ejectuar `npm install` en cada uno de ellos para instalar las dependencias
